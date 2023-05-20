@@ -54,9 +54,9 @@ export default function Home() {
         <img src='/assets/logoGif.gif' className={styles.logoGif} />
       </div>
       <div className={styles.navbar_container}>
-        {browserName === 'Chrome' ? null : (
+       {/* {browserName === 'Chrome' ? null : (
           <div className={styles.mainLogo}></div>
-        )}
+        )} */}
         <p
           className={styles.myLogo}
           data-aos='zoom-in'
