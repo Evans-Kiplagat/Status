@@ -54,7 +54,7 @@ export default function Home() {
         <img src='/assets/logoGif.gif' className={styles.logoGif} />
       </div>
       <div className={styles.navbar_container}>
-       {/* {browserName === 'Chrome' ? null : (
+        {/* {browserName === 'Chrome' ? null : (
           <div className={styles.mainLogo}></div>
         )} */}
         <p
@@ -206,28 +206,21 @@ export default function Home() {
 
       <div className={styles.contactWrapper}>
         <a
-          href='https://www.instagram.com/hurlaniyhi/'
-          target='_blank'
-          rel='noopener noreferrer'
-        >
-          <FaInstagram className={styles.linkIcons} />
-        </a>
-        <a
-          href='https://www.linkedin.com/in/ridwan-kolawole-7b4931184/?originalSubdomain=ng'
+          href='https://linkedin.com/in/abdullateef-lawal-b46786214/'
           target='_blank'
           rel='noopener noreferrer'
         >
           <FaLinkedin className={styles.linkIcons} />
         </a>
         <a
-          href='https://twitter.com/MisterJS'
+          href='https://twitter.com/eniolaamiola_'
           target='_blank'
           rel='noopener noreferrer'
         >
           <FaTwitter className={styles.linkIcons} />
         </a>
         <a
-          href='https://github.com/hurlaniyhi'
+          href='https://github.com/eniolastyle'
           target='_blank'
           rel='noopener noreferrer'
         >

@@ -222,19 +222,19 @@ $color-theme-text-light: #e1d1e4;
   align-items: center;
   flex-wrap: wrap;
   width: 100%;
-  margin-top: 5rem;
+  margin-top: 8rem;
 
   @media (max-width: 1360px) {
-    margin-top: 7rem;
+    margin-top: 8rem;
   }
   @media (max-width: 1030px) {
     margin-top: 12rem;
   }
   @media (max-width: 900px) {
-    margin-top: 8rem;
+    margin-top: 9rem;
   }
   @media (max-width: 850px) {
-    margin-top: 2rem;
+    margin-top: 5rem;
   }
 }
 .toolText {

@@ -20,9 +20,11 @@ const Projects = () => {
           <div className={styles.aboutProjectWrapper}>
             <div className={styles.aboutProjectLeft}>
               <p className={styles.aboutProjectTextLeft}>
-                A platform for social lending. it brings lenders and borrowers
-                together to make lending easier while also handling the
-                processing, payment and disbursement
+                Innovatics.ai is a cutting-edge website that focuses on the
+                field of artificial intelligence (AI) and innovation. The
+                platform provides a wealth of information, resources, and tools
+                related to AI, catering to both beginners and experts in the
+                field.
               </p>
             </div>
           </div>

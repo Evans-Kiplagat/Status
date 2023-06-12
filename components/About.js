@@ -37,7 +37,7 @@ const About = () => {
             <div className={styles.technologiesContainer}>
               <div className={`${styles.technologiesWrapper}`}>
                 <FiPlay className={styles.technologyIcon} />
-                <p className={styles.technologyText}>Cloud (AWS)</p>
+                <p className={styles.technologyText}>Cloud (AWS/GCP)</p>
               </div>
               <div className={`${styles.technologiesWrapper}`}>
                 <FiPlay className={styles.technologyIcon} />
@@ -58,7 +58,7 @@ const About = () => {
                 className={`${styles.technologiesWrapper} ${styles.technologiesWrapperPlus}`}
               >
                 <FiPlay className={styles.technologyIcon} />
-                <p className={styles.technologyText}>Terraform</p>
+                <p className={styles.technologyText}>Terraform (IaC)</p>
               </div>
               <div
                 className={`${styles.technologiesWrapper} ${styles.technologiesWrapperPlus}`}

@@ -31,7 +31,7 @@ const Contact = () => {
         </a>
         <div className={styles.contactLinks}>
           <a
-            href='https://www.linkedin.com/'
+            href='https://www.linkedin.com/in/abdullateef-lawal-b46786214/'
             target='_blank'
             rel='noopener noreferrer'
           >
