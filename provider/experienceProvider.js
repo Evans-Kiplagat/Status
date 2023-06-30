@@ -19,13 +19,14 @@ const experienceProvider = [
     ],
   },
   {
-    position: 'Strategy Officer',
+    position: 'Technical Officer',
     organization: '@Hollarx Cooperation',
     link: 'https://hollarx.com.ng',
     date: '2020 - 2022',
     workDone: [
       'I drive technology innovation and strategic planning',
-      'optimize operations and enhance customer experiences within our mini phone repair shop.',
+      'I Optimize operations and enhance customer experiences within our mini phone repair shop.',
+      'I build the company official website to promote the internet awareness.',
     ],
   },
   {

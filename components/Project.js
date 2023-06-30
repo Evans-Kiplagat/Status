@@ -49,6 +49,46 @@ const Projects = () => {
           {/* https://virtuous-sprout.herokuapp.com */}
         </div>
       </div>
+
+      <div
+        className={`${styles.projectWrapper} ${styles.projectWrapperReverse}`}
+        data-aos='fade-down-left'
+        data-aos-once={true}
+      >
+        <div className={styles.projectImageLeft}>
+          {/* <img src="/assets/email-platform2.png" className={styles.projectImage} /> */}
+          {/* <div className={styles.overlay}></div> */}
+        </div>
+        <div className={styles.projectInfoRight}>
+          <p className={`${styles.projectText} ${styles.textRight}`}>
+            Featured Project
+          </p>
+          <p className={`${styles.projectName} ${styles.textRight}`}>
+            Hollarx Website
+          </p>
+          <div className={styles.aboutProjectWrapper}>
+            <div className={styles.aboutProjectRight}>
+              <p className={styles.aboutProjectTextRight}>
+                Hollarx is a company training outstanding Mobile technology
+                Engineers in Nigeria and beyond with the operation of a phone
+                repair office in the city of Ilorin.
+              </p>
+            </div>
+          </div>
+          <div className={styles.projectToolsWrapper}>
+            <p className={styles.toolText}>React.js</p>
+            <p className={styles.toolText}>CSS</p>
+            <p className={styles.toolText}>Emailjs</p>
+          </div>
+          <a
+            href='https://hollarx.com.ng'
+            target='_blank'
+            rel='noopener noreferrer'
+          >
+            <FiExternalLink className={styles.linkIconRight} />
+          </a>
+        </div>
+      </div>
     </div>
   );
 };

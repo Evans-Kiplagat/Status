@@ -27,7 +27,7 @@ const OtherWorks = () => {
             <p className={styles.toolName}>Python</p>
             <p className={styles.toolName}>Docker</p>
             <p className={styles.toolName}>HCL</p>
-            <p className={styles.toolName}>GitHub Actions</p>
+            <p className={styles.toolName}>GHA</p>
             <p className={styles.toolName}>AWS</p>
           </div>
           {/* https://check-d-deck.herokuapp.com */}
@@ -140,66 +140,69 @@ const OtherWorks = () => {
           </div>
         </div>
 
-        {/* <div className={styles.projectContainer} data-aos='zoom-in'>
+        <div className={styles.projectContainer} data-aos='zoom-in'>
           <img src='/assets/stack.svg' className={styles.stackIcon} />
           <a
-            href='https://gtautoresponse.herokuapp.com'
+            href='https://github.com/eniolastyle/voting-app-k8s'
             target='_blank'
             rel='noopener noreferrer'
           >
             <FiExternalLink className={styles.linkIcon} />
           </a>
-          <p className={styles.projectName}>Auto Email Response</p>
+          <p className={styles.projectName}>ASG Article</p>
           <p className={styles.aboutProject}>
-            This is a web application that allows GTBank staff to personalize
-            and send already written mails to developers registered on GTBank
-            developers' portal.
+            In this tutorial, I explore how to provision an AWS Load balancer
+            and Auto Scaling Group (ASG) using Terraform and deploy it using
+            GitHub Actions (GHA).
           </p>
           <div className={styles.projectToolsWrapper}>
-            <p className={styles.toolName}>React</p>
-            <p className={styles.toolName}>Scss</p>
-            <p className={styles.toolName}>Node.js</p>
-            <p className={styles.toolName}>MongoDb</p>
+            <p className={styles.toolName}>HCL</p>
+            <p className={styles.toolName}>Terraform</p>
+            <p className={styles.toolName}>AWS</p>
+            <p className={styles.toolName}>GHA</p>
           </div>
         </div>
         <div className={styles.projectContainer} data-aos='zoom-in'>
           <img src='/assets/stack.svg' className={styles.stackIcon} />
-
           <a
-            href='https://drive.google.com/file/d/1Ou9A_r8pxNXpPI2CGzbuGQ1auWXqdaqv/view?usp=sharing'
+            href='https://github.com/eniolastyle/voting-app-k8s'
             target='_blank'
             rel='noopener noreferrer'
           >
             <FiExternalLink className={styles.linkIcon} />
           </a>
-          <p className={styles.projectName}>Robotics in Banking</p>
+          <p className={styles.projectName}>EC2 & LB Article</p>
           <p className={styles.aboutProject}>
-            An extensive article on how Robots begin to invade banking industry
-            and how promising the future of Robotic technology is in banking.
+            In this tutorial, I demonstragted how to create an AWS Load Balancer
+            with Terraform, and how distribute the server load in a 50-50 manner
+            with load balancer.
           </p>
           <div className={styles.projectToolsWrapper}>
-            <p className={styles.toolName}>Canva</p>
+            <p className={styles.toolName}>HCL</p>
+            <p className={styles.toolName}>Terraform</p>
+            <p className={styles.toolName}>AWS</p>
           </div>
-        </div> */}
-
-        {/* <div className={styles.projectContainer} data-aos='zoom-in'>
+        </div>
+        <div className={styles.projectContainer} data-aos='zoom-in'>
           <img src='/assets/stack.svg' className={styles.stackIcon} />
           <a
-            href='https://swedbank-personal-loan.netlify.app'
+            href='https://github.com/eniolastyle/voting-app-k8s'
             target='_blank'
             rel='noopener noreferrer'
           >
             <FiExternalLink className={styles.linkIcon} />
           </a>
-          <p className={styles.projectName}>Personal Loan</p>
+          <p className={styles.projectName}>Agile Article</p>
           <p className={styles.aboutProject}>
-            A SwedBank web app prototype for personal loan application.
+            In this article, I provided an overview of Agile methodology and its
+            core principles, emphasizing its focus on iterative product delivery
+            and customer collaboration.
           </p>
           <div className={styles.projectToolsWrapper}>
-            <p className={styles.toolName}>React.js</p>
-            <p className={styles.toolName}>AOS</p>
+            <p className={styles.toolName}>Agile</p>
+            <p className={styles.toolName}>SCRUM</p>
           </div>
-        </div> */}
+        </div>
       </div>
     </div>
   );
