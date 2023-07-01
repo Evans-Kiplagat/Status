@@ -152,7 +152,15 @@ export default function Home() {
           <span className={styles.sideNumbers}>04.</span>Contact
         </a>
         <a
-          href='https://drive.google.com/file/d/1hkUdpv8Id98YtBDurD2ISprdn57xPjiZ/view?usp=sharing'
+          href='https://devopsnode.hashnode.dev/'
+          target='_blank'
+          rel='noopener noreferrer'
+          className={styles.resumeBtn2}
+        >
+          Blog
+        </a>
+        <a
+          href='https://drive.google.com/file/d/1o2g5ltXqKzZbPpP0QJNAptruRshv4yIG/view?usp=sharing'
           target='_blank'
           rel='noopener noreferrer'
           className={styles.resumeBtn2}
