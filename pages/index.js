@@ -95,7 +95,7 @@ export default function Home() {
             Blog
           </a>
           <a
-            href='https://drive.google.com/file/d/1ZfR0PiYqpdRmxeQUmTS-MWmq_-4tHuyn/view?usp=sharing'
+            href='https://drive.google.com/file/d/1LhyAv4ofLNPixo5gb6g2O8j1YwtRyX_i/view?usp=sharing'
             target='_blank'
             rel='noopener noreferrer'
             className={styles.resumeBtn}
@@ -160,7 +160,7 @@ export default function Home() {
           Blog
         </a>
         <a
-          href='https://drive.google.com/file/d/1ZfR0PiYqpdRmxeQUmTS-MWmq_-4tHuyn/view?usp=sharing'
+          href='https://drive.google.com/file/d/1LhyAv4ofLNPixo5gb6g2O8j1YwtRyX_i/view?usp=sharing'
           target='_blank'
           rel='noopener noreferrer'
           className={styles.resumeBtn2}
