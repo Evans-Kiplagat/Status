@@ -13,6 +13,20 @@ const experienceProvider = [
     ],
   },
   {
+    position: 'DevOps Engineer',
+    organization: '@Innovatics',
+    link: 'https://innovatics.ai',
+    date: '2023 - 2023',
+    workDone: [
+      'Spearheaded the successful deployment and setup of Continuous Integration and Continuous Deployment (CI/CD) pipelines for the companys new web application (Next.js / Firebase) using GitHub Actions on namecheap VPS Quasar CentOS 7.',
+      'Configured the Apache web server to optimize web application performance and enable seamless user experience.',
+      'Implemented DNS records setup to ensure smooth domain mapping and accessibility.',
+      'Installed SSL certificates to enhance web application security and build trust among users.',
+      'Set up robust backup solutions to protect critical data and ensure business continuity.',
+      'Collaborated with cross-functional teams to ensure seamless integration and efficient project delivery.',
+    ],
+  },
+  {
     position: 'Software Engineering Instructor',
     organization: '@Malhub',
     link: 'https://malhub.org',
