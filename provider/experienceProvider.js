@@ -13,7 +13,7 @@ const experienceProvider = [
     ],
   },
   {
-    position: 'DevOps Engineer',
+    position: 'DevOps Engineer (Contract)',
     organization: '@Innovatics',
     link: 'https://innovatics.ai',
     date: '2023 - 2023',
