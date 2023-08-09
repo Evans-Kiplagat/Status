@@ -1,6 +1,6 @@
 const experienceProvider = [
   {
-    position: 'DevOps Engineer',
+    position: 'DevOps Engineer (Intern)',
     organization: '@Malhub',
     link: 'https://malhub.org',
     date: '2023 - Present',
@@ -36,7 +36,7 @@ const experienceProvider = [
     ],
   },
   {
-    position: 'Junior Software Engineer (Volunteer)',
+    position: 'Software Engineer (Volunteer)',
     organization: '@Hollarx Cooperation',
     link: 'https://hollarx.com.ng',
     date: '2022 - 2022',
