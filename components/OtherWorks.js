@@ -12,6 +12,28 @@ const OtherWorks = () => {
         <div className={styles.projectContainer} data-aos='zoom-in'>
           <img src='/assets/stack.svg' className={styles.stackIcon} />
           <a
+            href='https://github.com/noqdev/iambic'
+            target='_blank'
+            rel='noopener noreferrer'
+          >
+            <FiExternalLink className={styles.linkIcon} />
+          </a>
+          <p className={styles.projectName}>IAMbic Open Source</p>
+          <p className={styles.aboutProject}>
+            IAMbic tackles the complex task of managing distributed permissions
+            across multiple cloud environments, such as AWS, Azure Active
+            Directory, Okta, and Google Workspace.
+          </p>
+          <div className={styles.projectToolsWrapper}>
+            <p className={styles.toolName}>Python</p>
+            <p className={styles.toolName}>IAM</p>
+            <p className={styles.toolName}>GCP</p>
+            <p className={styles.toolName}>AWS</p>
+          </div>
+        </div>
+        <div className={styles.projectContainer} data-aos='zoom-in'>
+          <img src='/assets/stack.svg' className={styles.stackIcon} />
+          <a
             href='https://github.com/eniolastyle/Matchapp-Server-CI-CD'
             target='_blank'
             rel='noopener noreferrer'
@@ -201,28 +223,6 @@ const OtherWorks = () => {
           <div className={styles.projectToolsWrapper}>
             <p className={styles.toolName}>Agile</p>
             <p className={styles.toolName}>SCRUM</p>
-          </div>
-        </div>
-        <div className={styles.projectContainer} data-aos='zoom-in'>
-          <img src='/assets/stack.svg' className={styles.stackIcon} />
-          <a
-            href='https://github.com/noqdev/iambic'
-            target='_blank'
-            rel='noopener noreferrer'
-          >
-            <FiExternalLink className={styles.linkIcon} />
-          </a>
-          <p className={styles.projectName}>IAMbic Open Source</p>
-          <p className={styles.aboutProject}>
-            IAMbic tackles the complex task of managing distributed permissions
-            across multiple cloud environments, such as AWS, Azure Active
-            Directory, Okta, and Google Workspace.
-          </p>
-          <div className={styles.projectToolsWrapper}>
-            <p className={styles.toolName}>Python</p>
-            <p className={styles.toolName}>IAM</p>
-            <p className={styles.toolName}>GCP</p>
-            <p className={styles.toolName}>AWS</p>
           </div>
         </div>
       </div>
