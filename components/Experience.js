@@ -93,21 +93,21 @@ const Experience = () => {
             style={{ color: experience.exp1 }}
             onClick={() => handleExperience(0, '0.9rem', 'exp1')}
           >
-            Malhub
+            Noq Softwares
           </p>
           <p
             className={styles.companies}
             style={{ color: experience.exp2 }}
             onClick={() => handleExperience(1, '4.4rem', 'exp2')}
           >
-            Innovatics
+            Malhub
           </p>
           <p
             className={styles.companies}
             style={{ color: experience.exp3 }}
             onClick={() => handleExperience(2, '7.8rem', 'exp3')}
           >
-            Malhub
+            Innovatics
           </p>
           <p
             className={styles.companies}

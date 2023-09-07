@@ -1,15 +1,29 @@
 const experienceProvider = [
   {
-    position: 'DevOps Engineer (Intern)',
-    organization: '@Malhub',
-    link: 'https://malhub.org',
+    position: 'Opensource Engineer',
+    organization: '@Noq Software',
+    link: 'https://noq.dev',
     date: '2023 - Present',
     workDone: [
-      `Extensive hands-on learning of various DevOps tools and technologies, including CI/CD (with Jenkins, Github Actions, and AWS CodePipeline), Bash Scripting, Python Programming and Scripting, Linux Administration, Version Control using Git and Cloud Services (AWS, GCP, and Azure).`,
-      `Demonstrated proficiency in Infrastructure as Code (IaC) using Terraform with AWS resources like EC2, S3, ECS, CodeBuild, ASG, DynamoDB, and VPC.`,
-      `Gained knowledge in containerization with Docker and Kubernetes, earning a Kubernetes Basics Certification from KodeKloud.`,
-      `Learned various application stacks deployment, including JavaScript apps (ReactJS, Next.js, Vue.js), Python apps (Flask, Django), Java apps (Spring Boot), and Android and Flutter apps, to different environments such as App Center, Beta, and Production.`,
-      `Conducted app testing (Unit, Integration) locally and in CI/CD environments. Utilized SonarQube for Static Code Analysis, ensuring code quality.`,
+      `Contributed to improving Iambic's documentation, ensuring clarity and user-friendliness.`,
+      `Tasked with developing a GCP plugin, I dived into Python CLI app development, architectural planning, and implementation, including unit testing.`,
+      `Gained expertise in identity and access management (IAM) through hands-on experience with both AWS and GCP.`,
+      `Acquired knowledge of GCP's gcloud CLI, APIs, and IAM solutions, enabling programmable interactions with GCP services.`,
+      `Conducted app testing (Unit Testing).`,
+    ],
+  },
+  {
+    position: 'DevOps Engineering Instructor (Contract)',
+    organization: '@Malhub',
+    link: 'https://malhub.org',
+    date: '2023 - 2023',
+    workDone: [
+      'Designing and delivering a comprehensive curriculum covering DevOps, Azure, Linux, scripting, and cloud computing.',
+      'Instructing students on Microsoft Azure, AWS, GCP, Linux system administration, scripting languages (Python, Bash), and DevOps tools.',
+      'Emphasizing collaboration, CI/CD pipelines, and Infrastructure as Code (IaC) concepts.',
+      'To familiarize students with Docker, Kubernetes, Jenkins, Terraform, Ansible, and Git.',
+      'Ensuring students understood and implemented security best practices throughout the DevOps lifecycle.',
+      'Providing individualized guidance, monitored progress, and continuously improving the teaching methods to enhance learning.',
     ],
   },
   {
@@ -27,16 +41,7 @@ const experienceProvider = [
     ],
   },
   {
-    position: 'Software Engineering Instructor',
-    organization: '@Malhub',
-    link: 'https://malhub.org',
-    date: '2023 - Present',
-    workDone: [
-      'Educate students on web development technologies, including HTML, CSS, JavaScript, Node.js, ReactJS, MongoDB, and Data Structures and Algorithms.',
-    ],
-  },
-  {
-    position: 'Software Engineer (Volunteer)',
+    position: 'Software Engineer',
     organization: '@Hollarx Cooperation',
     link: 'https://hollarx.com.ng',
     date: '2022 - 2022',
@@ -46,7 +51,7 @@ const experienceProvider = [
     ],
   },
   {
-    position: 'Frontend Engineer (Internship)',
+    position: 'Frontend Engineer',
     organization: '@NewCore Technologies',
     link: 'https://newcoretechnologies.com',
     date: '2022 - 2022',

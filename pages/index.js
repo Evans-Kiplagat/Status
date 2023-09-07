@@ -95,7 +95,7 @@ export default function Home() {
             Blog
           </a>
           <a
-            href='https://drive.google.com/file/d/1ZLBUZiuMPhylFZalakBfCzL70efXZjsO/view?usp=sharing'
+            href='https://drive.google.com/file/d/1ParOvGEsGbxwdfrlWhdgQLf8makGhL6U/view?usp=sharing'
             target='_blank'
             rel='noopener noreferrer'
             className={styles.resumeBtn}
@@ -160,7 +160,7 @@ export default function Home() {
           Blog
         </a>
         <a
-          href='https://drive.google.com/file/d/1ZLBUZiuMPhylFZalakBfCzL70efXZjsO/view?usp=sharing'
+          href='https://drive.google.com/file/d/1ParOvGEsGbxwdfrlWhdgQLf8makGhL6U/view?usp=sharing'
           target='_blank'
           rel='noopener noreferrer'
           className={styles.resumeBtn2}
@@ -222,7 +222,7 @@ export default function Home() {
 
       <div className={styles.contactWrapper}>
         <a
-          href='https://linkedin.com/in/abdullateef-lawal-b46786214/'
+          href='https://linkedin.com/in/eniolaamiola/'
           target='_blank'
           rel='noopener noreferrer'
         >
