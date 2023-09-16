@@ -41,7 +41,7 @@ const About = () => {
               </div>
               <div className={`${styles.technologiesWrapper}`}>
                 <FiPlay className={styles.technologyIcon} />
-                <p className={styles.technologyText}>Docker / k8s</p>
+                <p className={styles.technologyText}>Kubernetes</p>
               </div>
               <div className={`${styles.technologiesWrapper}`}>
                 <FiPlay className={styles.technologyIcon} />
@@ -64,7 +64,7 @@ const About = () => {
                 className={`${styles.technologiesWrapper} ${styles.technologiesWrapperPlus}`}
               >
                 <FiPlay className={styles.technologyIcon} />
-                <p className={styles.technologyText}>JavaScript (ES6+)</p>
+                <p className={styles.technologyText}>JavaScript/Typescript</p>
               </div>
               <div
                 className={`${styles.technologiesWrapper} ${styles.technologiesWrapperPlus}`}
@@ -76,7 +76,7 @@ const About = () => {
                 className={`${styles.technologiesWrapper} ${styles.technologiesWrapperPlus}`}
               >
                 <FiPlay className={styles.technologyIcon} />
-                <p className={styles.technologyText}>YAML / JSON</p>
+                <p className={styles.technologyText}>Docker</p>
               </div>
             </div>
 

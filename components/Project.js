@@ -81,7 +81,7 @@ const Projects = () => {
             <p className={styles.toolText}>Emailjs</p>
           </div>
           <a
-            href='https://hollarx.com.ng'
+            href='https://hollarx.netlify.app/'
             target='_blank'
             rel='noopener noreferrer'
           >
