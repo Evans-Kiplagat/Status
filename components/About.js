@@ -15,7 +15,7 @@ const About = () => {
           data-aos-duration='1200'
         >
           <p className={styles.aboutText}>
-            Hello! I'm Abdullateef //{' '}
+            Hello! I'm Evans kiplagat //{' '}
             <span className={styles.myAlias}>{"{alias: 'Eniolaamiola'}"}</span>{' '}
             a Cloud and Innovation enthusiast.
           </p>
