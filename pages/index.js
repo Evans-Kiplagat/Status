@@ -64,8 +64,8 @@ export default function Home() {
           data-aos-once={true}
           data-aos-duration='1300'
         >
-          <span className={styles.letter_one}>Eniola</span>
-          <span className={styles.letter_two}>amiola</span>
+          <span className={styles.letter_one}>Evans</span>
+          <span className={styles.letter_two}>Kiplagat</span>
         </p>
         <div
           className={styles.nav_item_container}
@@ -199,7 +199,7 @@ export default function Home() {
             development and operations, streamlining software delivery
             processes, and enhancing system reliability.
           </p>
-          <a href='mailto:eniolaamiola@gmail.com' className={styles.navBtn}>
+          <a href='mailto:evansrotichh7@gmail.com' className={styles.navBtn}>
             Get in touch
           </a>
         </div>
@@ -222,7 +222,7 @@ export default function Home() {
 
       <div className={styles.contactWrapper}>
         <a
-          href='https://linkedin.com/in/eniolaamiola/'
+          href='https://linkedin.com/in/evans-kiplagat/'
           target='_blank'
           rel='noopener noreferrer'
         >
