@@ -1,8 +1,8 @@
 const experienceProvider = [
   {
-    position: 'Opensource Engineer',
-    organization: '@Noq Software',
-    link: 'https://noq.dev',
+    position: 'Software Engineer',
+    organization: 'liquiid studio',
+    link: 'https://liquiid.io/',
     date: '2023 - Present',
     workDone: [
       `Contributed to improving Iambic's documentation, ensuring clarity and user-friendliness.`,

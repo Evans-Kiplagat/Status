@@ -87,7 +87,7 @@ export default function Home() {
             <span className={styles.numbers}>04.</span>Contact
           </a>
           <a
-            href='https://devopsnode.hashnode.dev/'
+            href='https://liquiidio.gitbook.io/unity-plugin-suite/'
             target='_blank'
             rel='noopener noreferrer'
             className={styles.resumeBtn}
@@ -160,12 +160,12 @@ export default function Home() {
           Blog
         </a>
         <a
-          href='https://drive.google.com/drive/folders/1CpAFOXw45a9zJ5FYLiYgdSqK7twgYeld?usp=sharing'
+          href='https://www.ravenillusion.studio/'
           target='_blank'
           rel='noopener noreferrer'
           className={styles.resumeBtn2}
         >
-          Resume
+          Campany
         </a>
       </div>
 

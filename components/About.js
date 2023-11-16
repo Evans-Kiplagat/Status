@@ -34,7 +34,7 @@ const About = () => {
             digitally:{' '}
           </p>
 
-          {/* //<div className={styles.technologies}> */}
+          <div className={styles.technologies}>
             <div className={styles.technologiesContainer}>
               <div className={`${styles.technologiesWrapper}`}>
                 <FiPlay className={styles.technologyIcon} />
@@ -125,7 +125,7 @@ const About = () => {
           <div className={styles.picsFrame}></div>
         </div>
       </div>
-    // </div>
+    </div>
   );
 };
 

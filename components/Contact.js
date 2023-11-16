@@ -38,14 +38,14 @@ const Contact = () => {
             <FaLinkedin className={styles.contactLinkIcons} />
           </a>
           <a
-            href='https://github.com/eniolastyle'
+            href='https://github.com/liquiidio/UnityPluginSuite/'
             target='_blank'
             rel='noopener noreferrer'
           >
             <FaGithub className={styles.contactLinkIcons} />
           </a>
           <a
-            href='https://twitter.com/eniolaamiola_'
+            href='https://twitter.com/Raven_illusion/'
             target='_blank'
             rel='noopener noreferrer'
           >
