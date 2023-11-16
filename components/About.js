@@ -33,6 +33,7 @@ const About = () => {
             I currently work with the following technologies to address problems
             digitally:{' '}
           </p>
+          
           <div className={styles.technologies}>
             <div className={styles.technologiesContainer}>
               <div className={`${styles.technologiesWrapper}`}>
