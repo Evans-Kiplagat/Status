@@ -16,7 +16,7 @@ const About = () => {
         >
           <p className={styles.aboutText}>
             Hello! I'm Evans kiplagat //{' '}
-            <span className={styles.myAlias}>{"{alias: 'Eniolaamiola'}"}</span>{' '}
+            <span className={styles.myAlias}>{}</span>{' '}
             a Cloud and Innovation enthusiast.
           </p>
           <p className={styles.aboutText}>
@@ -33,6 +33,26 @@ const About = () => {
             I currently work with the following technologies to address problems
             digitally:{' '}
           </p>
+          <div className={styles.technologies}>
+            <div className={styles.technologiesContainer}>
+              <div className={`${styles.technologiesWrapper}`}>
+                <FiPlay className={styles.technologyIcon} />
+                <p className={styles.technologyText}>.Net (C#)</p>
+              </div>
+              <div className={`${styles.technologiesWrapper}`}>
+                <FiPlay className={styles.technologyIcon} />
+                <p className={styles.technologyText}>ASP.Net core</p>
+              </div>
+              <div className={`${styles.technologiesWrapper}`}>
+                <FiPlay className={styles.technologyIcon} />
+                <p className={styles.technologyText}> Unity3D </p>
+              </div>
+              <div className={`${styles.technologiesWrapper}`}>
+                <FiPlay className={styles.technologyIcon} />
+                <p className={styles.technologyText}>Smart contract </p>
+              </div>
+            </div>
+
           <div className={styles.technologies}>
             <div className={styles.technologiesContainer}>
               <div className={`${styles.technologiesWrapper}`}>
@@ -58,7 +78,7 @@ const About = () => {
                 className={`${styles.technologiesWrapper} ${styles.technologiesWrapperPlus}`}
               >
                 <FiPlay className={styles.technologyIcon} />
-                <p className={styles.technologyText}>Terraform (IaC)</p>
+                <p className={styles.technologyText}> C++</p>
               </div>
               <div
                 className={`${styles.technologiesWrapper} ${styles.technologiesWrapperPlus}`}
@@ -91,6 +111,7 @@ const About = () => {
               </div>
             </div>
           </div>
+        </div>
         </div>
         <div
           className={styles.picsContainer}

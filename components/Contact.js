@@ -20,18 +20,18 @@ const Contact = () => {
           I am currently open to new job opportunities. If you wanna reach me,
           be part of your team or just say hi, click the button below or send an
           email to{' '}
-          <span className={styles.developer}> eniolaamiola@gmail.com</span> and
+          <span className={styles.developer}> evansrotichh7@gmail.com</span> and
           ~let's make the world a better place to live!
         </p>
         <a
           className={styles.contactNavBtn}
-          href='mailto:eniolaamiola@gmail.com'
+          href='mailto:evansrotichh7@gmail.com'
         >
           Say Hello
         </a>
         <div className={styles.contactLinks}>
           <a
-            href='https://www.linkedin.com/in/abdullateef-lawal-b46786214/'
+            href='https://www.linkedin.com/in/evans-kiplagat/'
             target='_blank'
             rel='noopener noreferrer'
           >
