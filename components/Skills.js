@@ -4,7 +4,7 @@ import skillsIllustrator from '../assets/illustrator.png';
 import styles from '../styles/Skills.module.scss';
 
 const Skills = () => {
-  let [webDesign, electronics, networking, consultancy] = [
+  let [Blockchain, Game, networking, consultancy] = [
     '95%',
     '74%',
     '90%',
@@ -56,24 +56,24 @@ const Skills = () => {
         >
           <div className={styles['skills-levels-wrapper']}>
             <span className={styles['skills-level-text']}>
-              DevOps / Cloud <i className={styles['level-val']}>{webDesign}</i>
+              DevOps / Cloud <i className={styles['level-val']}>{Blockchain}</i>
             </span>
             <div className={styles['level-bar-wrapper']}>
               <div
                 className={styles['level-bar bar1']}
-                style={{ width: webDesign }}
+                style={{ width: Blockchain }}
               ></div>
             </div>
           </div>
           <div className={styles['skills-levels-wrapper']}>
             <span className={styles['skills-level-text']}>
               Entrepreneurship
-              <i className={styles['level-val']}>{electronics}</i>
+              <i className={styles['level-val']}>{Game}</i>
             </span>
             <div className={styles['level-bar-wrapper']}>
               <div
                 className={styles['level-bar bar2']}
-                style={{ width: electronics }}
+                style={{ width: Game }}
               ></div>
             </div>
           </div>
