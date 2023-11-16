@@ -152,7 +152,7 @@ export default function Home() {
           <span className={styles.sideNumbers}>04.</span>Contact
         </a>
         <a
-          href='https://devopsnode.hashnode.dev/'
+          href='https://liquiidio.gitbook.io/unity-plugin-suite/'
           target='_blank'
           rel='noopener noreferrer'
           className={styles.resumeBtn2}
@@ -216,7 +216,7 @@ export default function Home() {
         <p className={styles.footerText}>
           Design inspired by Brittany Chiang's portfolio. Redesigned and built
           by
-          <span className={styles.developer}> Ridwan Kolawole</span>.
+          <span className={styles.developer}>Evans</span>.
         </p>
       </div>
 
