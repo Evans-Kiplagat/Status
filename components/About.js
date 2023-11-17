@@ -34,6 +34,7 @@ const About = () => {
             digitally:{' '}
           </p>
 
+        
           <div className={styles.technologies}>
             <div className={styles.technologiesContainer}>
               <div className={`${styles.technologiesWrapper}`}>

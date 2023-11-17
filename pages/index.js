@@ -214,8 +214,8 @@ export default function Home() {
         {/* <Skills /> */}
 
         <p className={styles.footerText}>
-          {/* Design inspired by Brittany Chiang's portfolio. Redesigned and built
-          by */}
+        ©Evans.  RC 7107093
+        Trademarks belong to their respective owners. All rights reserved.
           <span className={styles.developer}>Evans</span>.
         </p>
       </div>
