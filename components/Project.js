@@ -67,24 +67,28 @@ const Projects = () => {
             Featured Project
           </p>
           <p className={`${styles.projectName} ${styles.textRight}`}>
-            Hollarx Website
+            liquiiduniverse
           </p>
           <div className={styles.aboutProjectWrapper}>
             <div className={styles.aboutProjectRight}>
               <p className={styles.aboutProjectTextRight}>
-                Hollarx is a company training outstanding Mobile technology
-                Engineers in Nigeria and beyond with the operation of a phone
-                repair office in the city of Ilorin.
+              In Liquiid Universe you will build your own planet with 3D collectible resources, 
+              allowing you to mine, trade, and be part of a functioning crypto economy that allows
+              complete interoperability. Create guilds with friends and other beings that share your interests, 
+              make passive income, combine resources to create bigger and better opportunities for trade, sell
+              your art in our marketplace, enjoy entertainment and even support non-profits meant to help fellow beings.
+
+              Experience a virtual game like no other, where YOU, a being, gets to rewrite history and create a better world.
               </p>
             </div>
           </div>
           <div className={styles.projectToolsWrapper}>
-            <p className={styles.toolText}>React.js</p>
-            <p className={styles.toolText}>CSS</p>
-            <p className={styles.toolText}>Emailjs</p>
+            <p className={styles.toolText}>C#</p>
+            <p className={styles.toolText}>Blockchain</p>
+            <p className={styles.toolText}>Unity3D</p>
           </div>
           <a
-            href='https://hollarx.netlify.app/'
+            href='https://www.liquiiduniverse.io/'
             target='_blank'
             rel='noopener noreferrer'
           >
