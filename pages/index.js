@@ -229,14 +229,14 @@ export default function Home() {
           <FaLinkedin className={styles.linkIcons} />
         </a>
         <a
-          href='https://twitter.com/eniolaamiola_'
+          href='https://twitter.com/Raven_illusion'
           target='_blank'
           rel='noopener noreferrer'
         >
           <FaTwitter className={styles.linkIcons} />
         </a>
         <a
-          href='https://github.com/eniolastyle'
+          href='https://github.com/liquiidio/UnityPluginSuite/'
           target='_blank'
           rel='noopener noreferrer'
         >
