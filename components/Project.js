@@ -20,14 +20,14 @@ const Projects = () => {
           <div className={styles.aboutProjectWrapper}>
             <div className={styles.aboutProjectLeft}>
               <p className={styles.aboutProjectTextLeft}>
-              The WAX Blockchain was built specifically to handle the demands of blockchain
+              {/* The WAX Blockchain was built specifically to handle the demands of blockchain
               gamers and NFT collectors. The WAX team has spent years developing the technology
               and ecosystem powering digital asset ownership resulting in the most utilized 
-              blockchain platform in the world.
-              {/* The Unity3D SDK for the WAX Blockchain allows the power of the WAX platform to be
+              blockchain platform in the world. */}
+              The Unity3D SDK for the WAX Blockchain allows the power of the WAX platform to be
               accessible by developers and game studios integrating web3 technology into their games.
               It opens limitless possibilities for gamers to create, play, buy, sell and trade with
-              ease on wax ultra-fast, secure, fee-less and carbon neutral platform. */}
+              ease on wax ultra-fast, secure, fee-less and carbon neutral platform.
               </p>
             </div>
           </div>
@@ -77,8 +77,6 @@ const Projects = () => {
               complete interoperability. Create guilds with friends and other beings that share your interests, 
               make passive income, combine resources to create bigger and better opportunities for trade, sell
               your art in our marketplace, enjoy entertainment and even support non-profits meant to help fellow beings.
-
-              Experience a virtual game like no other, where YOU, a being, gets to rewrite history and create a better world.
               </p>
             </div>
           </div>
