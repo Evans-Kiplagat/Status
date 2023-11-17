@@ -5,7 +5,7 @@ import { FiExternalLink } from 'react-icons/fi';
 const Projects = () => {
   return (
     <div id='projects' className={styles.container}>
-      <Title number='03' title="Some Things I've Managed and Deployed" />
+      <Title number='03' title="Some Things I've Worked on" />
 
       <div
         className={styles.projectWrapper}
@@ -24,10 +24,10 @@ const Projects = () => {
               gamers and NFT collectors. The WAX team has spent years developing the technology
               and ecosystem powering digital asset ownership resulting in the most utilized 
               blockchain platform in the world.
-              The Unity3D SDK for the WAX Blockchain allows the power of the WAX platform to be
+              {/* The Unity3D SDK for the WAX Blockchain allows the power of the WAX platform to be
               accessible by developers and game studios integrating web3 technology into their games.
               It opens limitless possibilities for gamers to create, play, buy, sell and trade with
-              ease on wax ultra-fast, secure, fee-less and carbon neutral platform.
+              ease on wax ultra-fast, secure, fee-less and carbon neutral platform. */}
               </p>
             </div>
           </div>
