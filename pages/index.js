@@ -95,12 +95,12 @@ export default function Home() {
             Blog
           </a>
           <a
-            href='https://drive.google.com/drive/folders/1CpAFOXw45a9zJ5FYLiYgdSqK7twgYeld?usp=sharing'
+            href='https://www.ravenillusion.studio/'
             target='_blank'
             rel='noopener noreferrer'
             className={styles.resumeBtn}
           >
-            Resume
+            Campany
           </a>
         </div>
       </div>
@@ -190,12 +190,12 @@ export default function Home() {
             I use technology to build for humans.
           </p>
           <p className={styles.greeting}>
-            I am a dedicated Blockchain Engineer with a strong background in
+            I am a dedicated Software Engineer with a strong background in
             software development, a knack for problem-solving, and a passion for
-            entrepreneurship.
+            Blockchain.
           </p>
           <p className={styles.greeting}>
-            As a Blockchain Engineer, I specialize in bridging the gap between
+            As a Software Engineer, I specialize in bridging the gap between
             development and operations, streamlining software delivery
             processes, and enhancing system reliability.
           </p>
