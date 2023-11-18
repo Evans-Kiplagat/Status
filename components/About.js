@@ -35,24 +35,6 @@ const About = () => {
           </p>
             
           <div className={styles.technologies}>
-            <div className={styles.technologiesContainer}>
-              <div className={`${styles.technologiesWrapper}`}>
-                <FiPlay className={styles.technologyIcon} />
-                <p className={styles.technologyText}>.Net (C#)</p>
-              </div>
-              <div className={`${styles.technologiesWrapper}`}>
-                <FiPlay className={styles.technologyIcon} />
-                <p className={styles.technologyText}>ASP.Net core</p>
-              </div>
-              <div className={`${styles.technologiesWrapper}`}>
-                <FiPlay className={styles.technologyIcon} />
-                <p className={styles.technologyText}> Unity3D </p>
-              </div>
-              <div className={`${styles.technologiesWrapper}`}>
-                <FiPlay className={styles.technologyIcon} />
-                <p className={styles.technologyText}>Smart contract </p>
-              </div>
-            </div>
 
           <div className={styles.technologies}>
 
