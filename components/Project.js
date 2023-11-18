@@ -46,6 +46,44 @@ const Projects = () => {
             <FiExternalLink className={styles.linkIconLeft} />
           </a>
         </div>
+
+
+        <div className={styles.projectInfoLeft}>
+          {/* <p className={`${styles.projectText} ${styles.textLeft}`}>Featured Project</p> */}
+          <p className={`${styles.projectName} ${styles.textLeft}`}>
+            Unity3D SDK for the WAX Blockchain
+          </p>
+          <div className={styles.aboutProjectWrapper}>
+            <div className={styles.aboutProjectLeft}>
+              <p className={styles.aboutProjectTextLeft}>
+              {/* The WAX Blockchain was built specifically to handle the demands of blockchain
+              gamers and NFT collectors. The WAX team has spent years developing the technology
+              and ecosystem powering digital asset ownership resulting in the most utilized 
+              blockchain platform in the world. */}
+              The Unity3D SDK for the WAX Blockchain allows the power of the WAX platform to be
+              accessible by developers and game studios integrating web3 technology into their games.
+              It opens limitless possibilities for gamers to create, play, buy, sell and trade with
+              ease on wax ultra-fast, secure, fee-less and carbon neutral platform.
+              </p>
+            </div>
+          </div>
+          <div className={styles.projectToolsWrapper}>
+            <p className={styles.toolText}>Blockchain</p>
+            <p className={styles.toolText}>Wax Wallet</p>
+            <p className={styles.toolText}>Unity3D</p>
+            <p className={styles.toolText}>Unity PluginSuite</p>
+            <p className={styles.toolText}>Blockchain gamers </p>
+          </div>
+          <a
+            href='https://liquiidio.gitbook.io/unity-plugin-suite/'
+            target='_blank'
+            rel='noopener noreferrer'
+          >
+            <FiExternalLink className={styles.linkIconLeft} />
+          </a>
+        </div>
+
+        
         <div className={styles.projectImageRight}>
           {/* <img src="/assets/vsprout3.png" className={styles.projectImage} /> */}
           {/* <div className={styles.overlay}></div> */}
