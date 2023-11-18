@@ -33,34 +33,6 @@ const About = () => {
             I currently work with the following technologies to address problems
             digitally:{' '}
           </p>
-
-        
-          <div className={styles.technologiesContainer}>
-              <div
-                className={`${styles.technologiesWrapper} ${styles.technologiesWrapperPlus}`}
-              >
-                <FiPlay className={styles.technologyIcon} />
-                <p className={styles.technologyText}> C++</p>
-              </div>
-              <div
-                className={`${styles.technologiesWrapper} ${styles.technologiesWrapperPlus}`}
-              >
-                <FiPlay className={styles.technologyIcon} />
-                <p className={styles.technologyText}>JavaScript/Typescript</p>
-              </div>
-              <div
-                className={`${styles.technologiesWrapper} ${styles.technologiesWrapperPlus}`}
-              >
-                <FiPlay className={styles.technologyIcon} />
-                <p className={styles.technologyText}>Python</p>
-              </div>
-              <div
-                className={`${styles.technologiesWrapper} ${styles.technologiesWrapperPlus}`}
-              >
-                <FiPlay className={styles.technologyIcon} />
-                <p className={styles.technologyText}>Docker</p>
-              </div>
-            </div>
             
           <div className={styles.technologies}>
             <div className={styles.technologiesContainer}>
@@ -83,6 +55,26 @@ const About = () => {
             </div>
 
           <div className={styles.technologies}>
+
+          <div className={styles.technologiesContainer}>
+              <div className={`${styles.technologiesWrapper}`}>
+                <FiPlay className={styles.technologyIcon} />
+                <p className={styles.technologyText}>.Net (C#)</p>
+              </div>
+              <div className={`${styles.technologiesWrapper}`}>
+                <FiPlay className={styles.technologyIcon} />
+                <p className={styles.technologyText}>ASP.Net core</p>
+              </div>
+              <div className={`${styles.technologiesWrapper}`}>
+                <FiPlay className={styles.technologyIcon} />
+                <p className={styles.technologyText}> Unity3D </p>
+              </div>
+              <div className={`${styles.technologiesWrapper}`}>
+                <FiPlay className={styles.technologyIcon} />
+                <p className={styles.technologyText}>Smart contract </p>
+              </div>
+            </div>
+
             <div className={styles.technologiesContainer}>
               <div className={`${styles.technologiesWrapper}`}>
                 <FiPlay className={styles.technologyIcon} />
@@ -101,6 +93,7 @@ const About = () => {
                 <p className={styles.technologyText}>Linux</p>
               </div>
             </div>
+
 
             <div className={styles.technologiesContainer}>
               <div
@@ -136,7 +129,7 @@ const About = () => {
               </div>
               <div className={`${styles.technologiesWrapper}`}>
                 <FiPlay className={styles.technologyIcon} />
-                <p className={styles.technologyText}>Jira & Others</p>
+                <p className={styles.technologyText}>Jira</p>
               </div>
             </div>
           </div>
