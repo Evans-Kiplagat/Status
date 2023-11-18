@@ -106,16 +106,16 @@ const Projects = () => {
           {/* <img src="/assets/email-platform2.png" className={styles.projectImage} /> */}
           {/* <div className={styles.overlay}></div> */}
         </div>
-        <div className={styles.projectInfoRight}>
-          <p className={`${styles.projectText} ${styles.textRight}`}>
+        <div className={styles.projectInfoLeft}>
+        <p className={`${styles.projectName} ${styles.textLeft}`}>
             Featured Project
           </p>
-          <p className={`${styles.projectName} ${styles.textRight}`}>
+          <p className={`${styles.projectName} ${styles.textLeft}`}>
             liquiiduniverse
           </p>
           <div className={styles.aboutProjectWrapper}>
-            <div className={styles.aboutProjectRight}>
-              <p className={styles.aboutProjectTextRight}>
+            <div className={styles.aboutProjectLeft}>
+              <p className={styles.aboutProjectTextLeft}>
               In Liquiid Universe you will build your own planet with 3D collectible resources, 
               allowing you to mine, trade, and be part of a functioning crypto economy that allows
               complete interoperability. Create guilds with friends and other beings that share your interests, 
@@ -134,7 +134,7 @@ const Projects = () => {
             target='_blank'
             rel='noopener noreferrer'
           >
-            <FiExternalLink className={styles.linkIconRight} />
+            <FiExternalLink className={styles.linkIconLeft} />
           </a>
         </div>
       </div>
