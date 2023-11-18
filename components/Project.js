@@ -68,26 +68,27 @@ const Projects = () => {
             Featured Project
           </p>
           <p className={`${styles.projectName} ${styles.textRight}`}>
-            liquiiduniverse
+          Raven Illusion
           </p>
           <div className={styles.aboutProjectWrapper}>
             <div className={styles.aboutProjectRight}>
               <p className={styles.aboutProjectTextRight}>
-              In Liquiid Universe you will build your own planet with 3D collectible resources, 
-              allowing you to mine, trade, and be part of a functioning crypto economy that allows
-              complete interoperability. Create guilds with friends and other beings that share your interests, 
-              make passive income, combine resources to create bigger and better opportunities for trade, sell
-              your art in our marketplace, enjoy entertainment and even support non-profits meant to help fellow beings.
+              At Raven Illusion Studio we envision a world where our games serve as a bridge 
+              between cultures, ideologies, and generations. By leveraging the power of interactive 
+              storytelling, we aim to cultivate a global community that values inclusivity, tolerance, 
+              and collaboration. Our vision is to be at the forefront of the gaming industry, 
+              known for groundbreaking narratives that not only entertain but also leave a lasting impact on players' 
+              lives. As we evolve, we remain committed to pushing the boundaries of storytelling in gaming and sparking
+              a revolution of empathy and love across the world.
               </p>
             </div>
           </div>
           <div className={styles.projectToolsWrapper}>
             <p className={styles.toolText}>C#</p>
-            <p className={styles.toolText}>Blockchain</p>
             <p className={styles.toolText}>Unity3D</p>
           </div>
           <a
-            href='https://www.liquiiduniverse.io/'
+            href='https://www.ravenillusion.studio/'
             target='_blank'
             rel='noopener noreferrer'
           >
@@ -98,7 +99,7 @@ const Projects = () => {
 
       <div
         className={`${styles.projectWrapper} ${styles.projectWrapperReverse}`}
-        data-aos='fade-down-left'
+        data-aos='fade-down-right'
         data-aos-once={true}
       >
         <div className={styles.projectImageLeft}>
