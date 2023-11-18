@@ -63,7 +63,7 @@ const About = () => {
             </div>
             
           <div className={styles.technologies}>
-            {/* <div className={styles.technologiesContainer}>
+            <div className={styles.technologiesContainer}>
               <div className={`${styles.technologiesWrapper}`}>
                 <FiPlay className={styles.technologyIcon} />
                 <p className={styles.technologyText}>.Net (C#)</p>
@@ -80,7 +80,7 @@ const About = () => {
                 <FiPlay className={styles.technologyIcon} />
                 <p className={styles.technologyText}>Smart contract </p>
               </div>
-            </div> */}
+            </div>
 
           <div className={styles.technologies}>
             <div className={styles.technologiesContainer}>
