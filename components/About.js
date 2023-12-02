@@ -17,7 +17,7 @@ const About = () => {
           <p className={styles.aboutText}>
             Hello! I'm Evans kiplagat //{' '}
             <span className={styles.myAlias}>{}</span>{' '}
-            a Cloud and Innovation enthusiast.
+            a Blockchain and Innovation enthusiast.
           </p>
           <p className={styles.aboutText}>
             I thrive in dynamic environments where I can leverage my technical

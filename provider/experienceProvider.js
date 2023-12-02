@@ -1,8 +1,8 @@
 const experienceProvider = [
   {
     position: 'Software Engineer',
-    organization: 'liquiid studio',
-    link: 'https://liquiid.io/',
+    organization: 'Kotana Pay',
+    link: 'https://www.ravenillusion.studio/',
     date: '2023 - Present',
     workDone: [
       `Contributed to improving Iambic's documentation, ensuring clarity and user-friendliness.`,
@@ -13,10 +13,10 @@ const experienceProvider = [
     ],
   },
   {
-    position: 'DevOps Engineering Instructor (Contract)',
-    organization: '@Malhub',
-    link: 'https://malhub.org',
-    date: '2023 - 2023',
+    position: 'Software Engineer',
+    organization: 'Liquiid studio',
+    link: 'https://Liquiid.io',
+    date: '2021 - 2023',
     workDone: [
       'Designing and delivering a comprehensive curriculum covering DevOps, Azure, Linux, scripting, and cloud computing.',
       'Instructing students on Microsoft Azure, AWS, GCP, Linux system administration, scripting languages (Python, Bash), and DevOps tools.',
@@ -27,7 +27,7 @@ const experienceProvider = [
     ],
   },
   {
-    position: 'DevOps Engineer (Contract)',
+    position: 'Zuca solution',
     organization: '@Innovatics',
     link: 'https://innovatics.ai',
     date: '2023 - 2023',
@@ -40,45 +40,6 @@ const experienceProvider = [
       'Collaborated with cross-functional teams to ensure seamless integration and efficient project delivery.',
     ],
   },
-  {
-    position: 'Software Engineer',
-    organization: '@Hollarx Cooperation',
-    link: 'https://hollarx.com.ng',
-    date: '2022 - 2022',
-    workDone: [
-      'Developed the companys website and gained experience in React Native for mobile development.',
-      'Acquired basics of mobile hardware engineering, complementing software development skills.',
-    ],
-  },
-  {
-    position: 'Frontend Engineer',
-    organization: '@NewCore Technologies',
-    link: 'https://newcoretechnologies.com',
-    date: '2022 - 2022',
-    workDone: [
-      'Collaborated with a team of senior software engineers from Flutterwave and other tech firms in Nigeria.',
-      'Learned and worked with ReactJS to develop a startup website.',
-      'Gained experience in team collaboration, problem-solving, and data structures and algorithms in JavaScript.',
-    ],
-  },
-  {
-    position: 'System Operator (Full-time)',
-    organization: '@Basmalat Nass Integrated Ltd.',
-    link: '',
-    date: '2019 - 2022',
-    workDone: [
-      'Responsible for system installations and configuration of network infrastructure for CBT (Computer Base Test) examinations',
-      'Acquired basic skills in Linux administration, Python for data science, web development using HTML, CSS, JS, and C programming.',
-      'Developed e-commerce website with WordPress and the companys website with HTML, CSS, Bootstrap, and JS.',
-    ],
-  },
-  // {
-  //   position: 'Mobile Engineer',
-  //   organization: '@Wastech Communication',
-  //   link: '',
-  //   date: '2016 - 2019',
-  //   workDone: [
-  //     'I learned mobile engineering here and also work to  maintain and fix mobile phones and related electronics',
   //   ],
   // },
 ];
