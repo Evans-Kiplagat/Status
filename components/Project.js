@@ -82,7 +82,9 @@ const Projects = () => {
           </div>
           <div className={styles.projectToolsWrapper}>
             <p className={styles.toolText}>C#</p>
-            <p className={styles.toolText}>Unity3D</p>
+            <p className={styles.toolText}>Unity-3D</p>
+            <p className={styles.toolText}>Blender</p>
+            <p className={styles.toolText}>3D</p>
           </div>
           <a
             href='https://www.ravenillusion.studio/'
@@ -102,7 +104,7 @@ const Projects = () => {
         <div className={styles.projectInfoLeft}>
           {/* <p className={`${styles.projectText} ${styles.textLeft}`}>Featured Project</p> */}
           <p className={`${styles.projectName} ${styles.textLeft}`}>
-            Unity3D SDK for the WAX Blockchain
+            Liquiid Universe
           </p>
           <div className={styles.aboutProjectWrapper}>
             <div className={styles.aboutProjectLeft}>
@@ -111,10 +113,11 @@ const Projects = () => {
               gamers and NFT collectors. The WAX team has spent years developing the technology
               and ecosystem powering digital asset ownership resulting in the most utilized 
               blockchain platform in the world. */}
-              The Unity3D SDK for the WAX Blockchain allows the power of the WAX platform to be
-              accessible by developers and game studios integrating web3 technology into their games.
-              It opens limitless possibilities for gamers to create, play, buy, sell and trade with
-              ease on wax ultra-fast, secure, fee-less and carbon neutral platform.
+              Liquid Universe is a multiplayer strategy game, where anyone can buy and own virtual planets, 
+              collect and build your planet with various resources, join fellowships to explore this Liquid Universe. 
+              Liquid Universe is a bridge between the NFT world and gamers- an interactive,
+              strategy game for gamers who expect the gamer experience as well as an ecosystem for players who want to collect and trade NFT:s, 
+              regardless of the gamer's experience in the NFT world.
               </p>
             </div>
           </div>
