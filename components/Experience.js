@@ -93,23 +93,23 @@ const Experience = () => {
             style={{ color: experience.exp1 }}
             onClick={() => handleExperience(0, '0.9rem', 'exp1')}
           >
-            Noq Softwares
+            Raven illusion
           </p>
           <p
             className={styles.companies}
             style={{ color: experience.exp2 }}
             onClick={() => handleExperience(1, '4.4rem', 'exp2')}
           >
-            Malhub
+            Liquiid studio
           </p>
           <p
             className={styles.companies}
             style={{ color: experience.exp3 }}
             onClick={() => handleExperience(2, '7.8rem', 'exp3')}
           >
-            Innovatics
+            Zuca solution
           </p>
-          <p
+          {/* <p
             className={styles.companies}
             style={{ color: experience.exp4 }}
             onClick={() => handleExperience(3, '11.2rem', 'exp4')}
@@ -129,7 +129,7 @@ const Experience = () => {
             onClick={() => handleExperience(5, '18.4rem', 'exp6')}
           >
             Basmalat Nass
-          </p>
+          </p> */}
         </div>
         <div className={styles.workDetails}>
           <p className={styles.roleText}>

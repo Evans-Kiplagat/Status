@@ -1,11 +1,11 @@
 const experienceProvider = [
   {
     position: 'Game Developer',
-    organization: 'Raven illusion',
+    organization:  'Raven illusion',
     link: 'https://www.ravenillusion.studio/',
     date: '2023 - Present',
     workDone: [
-      `Contributed to improving game desing, ensuring clarity and user-friendliness.`,
+      `Contributed to improving game design, ensuring clarity and user-friendliness.`,
       `Tasked with developing of UI/UX.`,
       `Acquired knowledge of game play, APIs, and IAM solutions, enabling programmable interactions with unity services.`,
       `Conducted app testing (Unit Testing).`,

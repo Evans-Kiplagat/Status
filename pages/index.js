@@ -13,7 +13,7 @@ import Experience from '../components/Experience';
 import Project from '../components/Project';
 import OtherWorks from '../components/OtherWorks';
 import Contact from '../components/Contact';
-//import Skills from '../components/Skills'
+import Skills from '../components/Skills'
 import styles from '../styles/Home.module.scss';
 
 export default function Home() {
