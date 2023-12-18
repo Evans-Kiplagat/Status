@@ -76,10 +76,7 @@ const Projects = () => {
               At Raven Illusion Studio we envision a world where our games serve as a bridge 
               between cultures, ideologies, and generations. By leveraging the power of interactive 
               storytelling, we aim to cultivate a global community that values inclusivity, tolerance, 
-              and collaboration. Our vision is to be at the forefront of the gaming industry, 
-              known for groundbreaking narratives that not only entertain but also leave a lasting impact on players' 
-              lives. As we evolve, we remain committed to pushing the boundaries of storytelling in gaming and sparking
-              a revolution of empathy and love across the world.
+              and collaboration. 
               </p>
             </div>
           </div>
