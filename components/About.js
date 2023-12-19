@@ -57,24 +57,6 @@ const About = () => {
               </div>
             </div>
 
-            <div className={styles.technologiesContainer}>
-              <div className={`${styles.technologiesWrapper}`}>
-                <FiPlay className={styles.technologyIcon} />
-                <p className={styles.technologyText}>Cloud (AWS/GCP)</p>
-              </div>
-              <div className={`${styles.technologiesWrapper}`}>
-                <FiPlay className={styles.technologyIcon} />
-                <p className={styles.technologyText}>Kubernetes</p>
-              </div>
-              <div className={`${styles.technologiesWrapper}`}>
-                <FiPlay className={styles.technologyIcon} />
-                <p className={styles.technologyText}>Jenkins / GHA </p>
-              </div>
-              <div className={`${styles.technologiesWrapper}`}>
-                <FiPlay className={styles.technologyIcon} />
-                <p className={styles.technologyText}>Linux</p>
-              </div>
-            </div>
 
 
             <div className={styles.technologiesContainer}>
@@ -88,13 +70,13 @@ const About = () => {
                 className={`${styles.technologiesWrapper} ${styles.technologiesWrapperPlus}`}
               >
                 <FiPlay className={styles.technologyIcon} />
-                <p className={styles.technologyText}>JavaScript/Typescript</p>
+                <p className={styles.technologyText}>Blender</p>
               </div>
               <div
                 className={`${styles.technologiesWrapper} ${styles.technologiesWrapperPlus}`}
               >
                 <FiPlay className={styles.technologyIcon} />
-                <p className={styles.technologyText}>Python</p>
+                <p className={styles.technologyText}>EOSIO</p>
               </div>
               <div
                 className={`${styles.technologiesWrapper} ${styles.technologiesWrapperPlus}`}
