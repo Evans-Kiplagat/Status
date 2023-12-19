@@ -77,6 +77,31 @@ $color-theme-text-light: #e1d1e4;
     height: 35rem;
   }
 }
+.projectImageRightfirst {
+  width: 60%;
+  margin-right: 10%;
+  position: relative;
+  overflow: hidden;
+  background-image: url('../public/assets/innovatics.png');
+  height: 50rem;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+  @media (max-width: 850px) {
+    margin-right: 0;
+    margin-left: 0;
+    width: 100%;
+  }
+
+  @media (max-width: 600px) {
+    height: 40rem;
+  }
+  @media (max-width: 450px) {
+    height: 35rem;
+  }
+}
+
 .projectImageRight {
   width: 60%;
   margin-right: 10%;
@@ -101,7 +126,6 @@ $color-theme-text-light: #e1d1e4;
     height: 35rem;
   }
 }
-
 .altprojectImageRight {
   width: 60%;
   margin-right: 10%;

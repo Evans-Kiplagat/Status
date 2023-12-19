@@ -47,7 +47,7 @@ const Projects = () => {
           </a>
         </div>
         
-        <div className={styles.projectImageRight}>
+        <div className={styles.projectImageRightfirst}>
           {/* <img src="/assets/vsprout3.png" className={styles.projectImage} /> */}
           {/* <div className={styles.overlay}></div> */}
           {/* https://virtuous-sprout.herokuapp.com */}
