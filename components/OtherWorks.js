@@ -6,7 +6,7 @@ const OtherWorks = () => {
     <div className={styles.container}>
       <p className={styles.title}>Other Noteworthy Projects</p>
       <p className={styles.description}>
-        Projects &nbsp; | &nbsp; Articles &nbsp; | &nbsp; Open Source
+        Projects &nbsp; | &nbsp; Open Source
       </p>
       <div className={styles.projectsWrapper}>
         <div className={styles.projectContainer} data-aos='zoom-in'>
@@ -28,8 +28,6 @@ const OtherWorks = () => {
             <p className={styles.toolName}>EOS</p>
             <p className={styles.toolName}>Websockets</p>
             <p className={styles.toolName}>Websocket-client</p>
-            <p className={styles.toolName}>Blockchain</p>
-            <p className={styles.toolName}>dfuse</p>
           </div>
         </div>
         <div className={styles.projectContainer} data-aos='zoom-in'>
@@ -71,10 +69,9 @@ const OtherWorks = () => {
           all major Build Targets (WebGL, Windows, Mac, Linux, Android, iOS) without relying on WebViews.
           </p>
           <div className={styles.projectToolsWrapper}>
-            <p className={styles.toolName}>.Net</p>
+            <p className={styles.toolName}>.NET</p>
             <p className={styles.toolName}>Unity</p>
             <p className={styles.toolName}>Unity Package Manager</p>
-            <p className={styles.toolName}>WebGL</p>
           </div>
         </div>
         <div className={styles.projectContainer} data-aos='zoom-in'>
@@ -86,38 +83,16 @@ const OtherWorks = () => {
           >
             <FiExternalLink className={styles.linkIcon} />
           </a>
-          {/* <a href="https://allcountriesdetails.netlify.app/" target="_blank" rel="noopener noreferrer"><FiExternalLink className={styles.linkIcon} /></a> */}
           <p className={styles.projectName}>Anchor Link Sharp</p>
           <p className={styles.aboutProject}>
           A native integration compatible with Unity3D and C# allowing users and developers
           to connect and communicate with Anchor Wallet and ESR-based applications.
           The Anchor & ESR Integration consists of multiple libraries for the ESR-Protocol, the Anchor-integration,
-          Transports etc. which will be included via Submodules while being packaged and published as a single Package.
+          Transports etc.
           </p>
           <div className={styles.projectToolsWrapper}>
-            <p className={styles.toolName}>.net</p>
-            <p className={styles.toolName}>Unity</p>
             <p className={styles.toolName}>C#</p>
             <p className={styles.toolName}>Anchor wallet</p>
-          </div>
-        </div>
-        <div className={styles.projectContainer} data-aos='zoom-in'>
-          <img src='/assets/stack.svg' className={styles.stackIcon} />
-          <a
-            href='https://github.com/eniolastyle/wp-engine'
-            target='_blank'
-            rel='noopener noreferrer'
-          >
-            <FiExternalLink className={styles.linkIcon} />
-          </a>
-          <p className={styles.projectName}>Wordpress EC2 Module</p>
-          <p className={styles.aboutProject}>
-            The repository serves as a starting point for creating WordPress
-            websites using the AWS EC2 hosting platform.
-          </p>
-          <div className={styles.projectToolsWrapper}>
-            <p className={styles.toolName}>HCL</p>
-            <p className={styles.toolName}>Shell</p>
           </div>
         </div>
         <div className={styles.projectContainer} data-aos='zoom-in'>
@@ -156,7 +131,7 @@ const OtherWorks = () => {
             The repository serves as a reference .NET and Unity3D-compatible (Desktop, Mobile, WebGL) ApiClient for AtomicMarket.
             </p>
           <div className={styles.projectToolsWrapper}>
-            <p className={styles.toolName}>.net</p>
+            <p className={styles.toolName}>.NET</p>
             <p className={styles.toolName}>web3</p>
             <p className={styles.toolName}>WebGL</p>
           </div>
@@ -176,7 +151,7 @@ const OtherWorks = () => {
           .NET and Unity3D-compatible (Desktop, Mobile, WebGL) Client-Library for Hyperion History APIs
           </p>
           <div className={styles.projectToolsWrapper}>
-            <p className={styles.toolName}>.net</p>
+            <p className={styles.toolName}>.NET</p>
             <p className={styles.toolName}>web3</p>
             <p className={styles.toolName}>WebGL</p>
           </div>
@@ -196,7 +171,7 @@ const OtherWorks = () => {
           Endpoints have its own set of parameters that you may build up and pass in to the relevant function.
           </p>
           <div className={styles.projectToolsWrapper}>
-          <p className={styles.toolName}>.net</p>
+          <p className={styles.toolName}>.NET</p>
             <p className={styles.toolName}>web3</p>
             <p className={styles.toolName}>WebGL</p>
           </div>
