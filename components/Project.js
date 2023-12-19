@@ -20,10 +20,7 @@ const Projects = () => {
           <div className={styles.aboutProjectWrapper}>
             <div className={styles.aboutProjectLeft}>
               <p className={styles.aboutProjectTextLeft}>
-              {/* The WAX Blockchain was built specifically to handle the demands of blockchain
-              gamers and NFT collectors. The WAX team has spent years developing the technology
-              and ecosystem powering digital asset ownership resulting in the most utilized 
-              blockchain platform in the world. */}
+
               The Unity3D SDK for the WAX Blockchain allows the power of the WAX platform to be
               accessible by developers and game studios integrating web3 technology into their games.
               It opens limitless possibilities for gamers to create, play, buy, sell and trade with
@@ -76,7 +73,8 @@ const Projects = () => {
               At Raven Illusion Studio we envision a world where our games serve as a bridge 
               between cultures, ideologies, and generations. By leveraging the power of interactive 
               storytelling, we aim to cultivate a global community that values inclusivity, tolerance, 
-              and collaboration. 
+              and collaboration. Pushing the boundaries of storytelling in gaming and sparking a revolution of empathy and love across the world.
+
               </p>
             </div>
           </div>
@@ -109,23 +107,16 @@ const Projects = () => {
           <div className={styles.aboutProjectWrapper}>
             <div className={styles.aboutProjectLeft}>
               <p className={styles.aboutProjectTextLeft}>
-              {/* The WAX Blockchain was built specifically to handle the demands of blockchain
-              gamers and NFT collectors. The WAX team has spent years developing the technology
-              and ecosystem powering digital asset ownership resulting in the most utilized 
-              blockchain platform in the world. */}
               Liquid Universe is a multiplayer strategy game, where anyone can buy and own virtual planets, 
               collect and build your planet with various resources, join fellowships to explore this Liquid Universe. 
               Liquid Universe is a bridge between the NFT world and gamers- an interactive,
-              strategy game for gamers who expect the gamer experience as well as an ecosystem for players who want to collect and trade NFT:s, 
-              regardless of the gamer's experience in the NFT world.
+              strategy game for gamers who expect the gamer experience as well as an ecosystem for players who want to collect and trade NFT:s.
               </p>
             </div>
           </div>
           <div className={styles.projectToolsWrapper}>
-            <p className={styles.toolText}>Blockchain</p>
-            <p className={styles.toolText}>Wax Wallet</p>
+            <p className={styles.toolText}>Smart contract</p>
             <p className={styles.toolText}>Unity3D</p>
-            <p className={styles.toolText}>Unity PluginSuite</p>
             <p className={styles.toolText}>Blockchain gamers </p>
           </div>
           <a
