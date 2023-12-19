@@ -24,10 +24,9 @@ const About = () => {
             expertise and innovative mindset to drive impactful solutions.
           </p>
           <p className={styles.aboutText}>
-            With a deep understanding of agile methodologies and continuous
-            integration/continuous deployment (CI/CD) practices, I strive to
-            optimize development workflows and enable rapid, high-quality
-            releases.
+            With a deep understanding of blockchain methodologies and
+            game development practices, I strive to
+            optimize development workflows and enable rapid, great product.
           </p>
           <p className={styles.aboutText}>
             I currently work with the following technologies to address problems
@@ -45,7 +44,7 @@ const About = () => {
               </div>
               <div className={`${styles.technologiesWrapper}`}>
                 <FiPlay className={styles.technologyIcon} />
-                <p className={styles.technologyText}>ASP.Net core</p>
+                <p className={styles.technologyText}>.NET</p>
               </div>
               <div className={`${styles.technologiesWrapper}`}>
                 <FiPlay className={styles.technologyIcon} />
@@ -53,7 +52,7 @@ const About = () => {
               </div>
               <div className={`${styles.technologiesWrapper}`}>
                 <FiPlay className={styles.technologyIcon} />
-                <p className={styles.technologyText}>.NET </p>
+                <p className={styles.technologyText}>ASP.Net core </p>
               </div>
             </div>
 
