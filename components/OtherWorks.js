@@ -108,9 +108,7 @@ const OtherWorks = () => {
           <p className={styles.aboutProject}>
           A native UAL allowing the use of supported SignatureProviders, 
           similar to the js-based UAL allowing developers and users the same interaction flow and UI/UX on all different platforms.
-           The priority of this plugin is for user and developer experience,
-            while building the same base with extension-capabilities allowing to support 
-            additional SignatureProviders like Wombat, MetaMask, AIKON, other Wallets or SideChain-Auth in the future.
+           The priority of this plugin is for user and developer experience.
           </p>
           <div className={styles.projectToolsWrapper}>
             <p className={styles.toolName}>Unity</p>
