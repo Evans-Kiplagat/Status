@@ -111,8 +111,6 @@ const OtherWorks = () => {
            The priority of this plugin is for user and developer experience.
           </p>
           <div className={styles.projectToolsWrapper}>
-            <p className={styles.toolName}>Unity</p>
-            <p className={styles.toolName}>.NET</p>
           </div>
         </div>
         <div className={styles.projectContainer} data-aos='zoom-in'>
