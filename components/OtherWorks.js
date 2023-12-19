@@ -4,7 +4,7 @@ import { FiExternalLink } from 'react-icons/fi';
 const OtherWorks = () => {
   return (
     <div className={styles.container}>
-      <p className={styles.title}>Other Noteworthy Projects</p>
+      <p className={styles.title}>Other Noteworthy Open source Projects</p>
       <p className={styles.description}>
         Projects &nbsp; | &nbsp; Open Source
       </p>
