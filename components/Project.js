@@ -120,7 +120,7 @@ const Projects = () => {
             <p className={styles.toolText}>Blockchain gamers </p>
           </div>
           <a
-            href='https://liquiidio.gitbook.io/unity-plugin-suite/'
+            href='https://www.liquiid.io/'
             target='_blank'
             rel='noopener noreferrer'
           >

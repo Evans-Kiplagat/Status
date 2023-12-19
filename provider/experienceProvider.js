@@ -28,7 +28,7 @@ const experienceProvider = [
     position: 'Software Engineer',
     organization: 'Zuca solution',
     link: 'http://www.zuca.co.ke',
-    date: '2023 - 2023',
+    date: '2020 - 2021',
     workDone: [
       'Spearheaded the successful deployment and setup of Continuous Integration and Continuous Deployment (CI/CD) pipelines for the companys new web application (Next.js / Firebase) using GitHub Actions on namecheap VPS Quasar CentOS 7.',
       'Configured the Apache web server to optimize web application performance and enable seamless user experience.',
