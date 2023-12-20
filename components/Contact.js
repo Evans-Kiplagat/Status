@@ -13,7 +13,7 @@ const Contact = () => {
     <div id='contacts' className={styles.container}>
       <div className={styles.contactWrapper}>
         <p className={styles.introText}>
-          <span className={styles.number}>04.</span>Wanna reach me?
+          {/* <span className={styles.number}>04.</span>Wanna reach me? */}
         </p>
         <h3 className={styles.contactTitle}>Get In Touch</h3>
         <p className={styles.contactText}>

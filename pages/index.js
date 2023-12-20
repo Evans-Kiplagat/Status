@@ -165,7 +165,7 @@ export default function Home() {
           rel='noopener noreferrer'
           className={styles.resumeBtn2}
         >
-          Campany
+          Company
         </a>
       </div>
 
@@ -211,7 +211,6 @@ export default function Home() {
         <Project />
         <OtherWorks />
         <Contact />
-        {/* <Skills /> */}
 
         <p className={styles.footerText}>
         ©Evans.  RC 7107093
