@@ -100,7 +100,7 @@ export default function Home() {
             rel='noopener noreferrer'
             className={styles.resumeBtn}
           >
-            Campany
+            Company
           </a>
         </div>
       </div>
